@@ -11,16 +11,19 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### User Stories
 
 #### REQUIRED (10pts)
-- [ x] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [ x] (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [ x] (3pts) User can view the movie poster image for each movie.
+- [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
+- [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [x] (2pt) User can view the app on various device sizes and orientations.
+- [x] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
 <img src="http://g.recordit.co/QWgFAvRAp2.gif" width=250><br>
+
+#### Bonus: Auto Layout 
+<img src="http://g.recordit.co/n372xoJSlu.gif" width=250><br>
 
 ### Notes
 I had to redownload the pod files again since for some reason it didn't fully download the first time, but other than that it was a straight forward project. 
